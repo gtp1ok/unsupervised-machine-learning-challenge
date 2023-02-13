@@ -1,4 +1,4 @@
-# unsupervised-machine-learning-challenge
+# Unsupervised-machine-learning-challenge
 
 Background
 You are on the data science team of a medical research company that’s interested in finding better ways to predict myopia, or nearsightedness. Your team has 
